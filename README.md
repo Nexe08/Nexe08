@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nexe08
-- 👀 I’m interested in Game Dev
+- 👀 I’m interested in Game Dev and programming.
 - 🌱 I’m currently learning Game designing
 - 📫 How to reach me ...
 
