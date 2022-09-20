@@ -17,3 +17,6 @@
   --->
 </a>
 </p>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexe08&count_private=false&theme=tokyonight&show_icons=true)
