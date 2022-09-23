@@ -7,16 +7,19 @@
 <p align="center">
   <a href="https://twitter.com/nexe0044">
     <img src="https://img.shields.io/twitter/follow/nexe0044?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
-  </a>
-  <!---<a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" alt="EddieHub Discord"/>
-  </a> 
-
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Eddie Jaoude's YouTube channel"/>
-  --->
-</a>
+  </a>  
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nexe08" alt="enisn" height="1" /> </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexe08&layout=compact&theme=tokyonight&count_private=true" alt="enisn" height="160" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nexe08&show_icons=true&theme=tokyonight&count_private=true" alt="enisn" height="160" />
+  </p>
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexe08&count_private=false&theme=tokyonight&show_icons=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?  user=Nexe08&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
+</p>
+
