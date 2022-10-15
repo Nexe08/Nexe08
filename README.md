@@ -18,6 +18,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nexe08&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nexe08&theme=github&utcOffset=8)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nexe08)](https://github.com/Nexe08/github-profile-trophy)
 
 <!--
 
