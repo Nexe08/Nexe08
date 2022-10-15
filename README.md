@@ -20,6 +20,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nexe08&theme=gruvbox)](https://github.com/Nexe08/github-profile-trophy)
 
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Nexe08)
+
 <!--
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nexe08" alt="enisn" height="1" /> </p>
