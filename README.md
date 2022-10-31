@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Nexe08
-- 👀 I’m interested in Game Dev and programming.
-- 🌱 I’m currently learning Game Design
-- 📫 How to reach me: Follow me On Twitter and On Reddit
+- <H1>👋 Hi, I’m @Nexe08 </H1>
+- 👀 I’m interested in Game Dev, programming, pixel art, game design and lot more.
+- 🌱 I’m currently learning Game Design and pixel art with other aspect of game development.
+- 📫 How to reach me: Check me out on Twitter, Reddit and other platform that i will mention in future.
+- Follow me on Twitter for game dev and pixel art content and on github for fun and also on Reddit to make me happy.
+
+***
 
 <p align="center">
   <a href="https://twitter.com/nexe0044">
@@ -11,6 +14,7 @@
   </a>  
 </p>
 
+***
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nexe08&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nexe08&theme=github)
@@ -18,11 +22,15 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nexe08&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nexe08&theme=github&utcOffset=8)
 
+***
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nexe08&theme=gruvbox)](https://github.com/Nexe08/github-profile-trophy)
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Nexe08)
 
 <!--
+***
+
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Nexe08)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nexe08" alt="enisn" height="1" /> </p>
   <p align="center">
