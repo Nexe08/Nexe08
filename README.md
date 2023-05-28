@@ -20,8 +20,6 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Nexe08&icon=3&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=Nexe08&label=Like%20you%2C%20my%20friend&icon=3&pretty=false)](https://visitcount.itsvg.in)
